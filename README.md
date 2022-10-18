@@ -1,6 +1,6 @@
 <h1 align="center">Que la infraestructura no sea una limitación para tu producto.</h1>
 
-En este repositorio podrás encontrar todo el código Open Source que se crea y utiliza día a día para construir [Helmcode](https://helmcode.com/) y ayudar a todos sus clientes.
+En este repositorio podrás encontrar todo el código Open Source que se crea y utiliza día a día para construir [Helmcode](https://helmcode.com/) y ayudar a todos nuestros clientes.
 
 ### ¿Qué es Helmcode?
 Helmcode nace con la idea de poder ayudar a emprendedores y startups a crear infraestructuras a medida, escalables y con alta disponibilidad.
